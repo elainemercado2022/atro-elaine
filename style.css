@@ -55,7 +55,7 @@ input {
 
 #button-facebook {
     width: 80%;
-    height: 50px;
+    height: 30px;
     margin-top: 20px;
     border-radius: 30px;
     border: none;
@@ -64,6 +64,10 @@ input {
     color: white;
     text-transform: uppercase;
     font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 3px;
 }
 
 #button-facebook:active {
